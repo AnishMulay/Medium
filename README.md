@@ -8,7 +8,7 @@ Thank you for visiting this repository. Here, I’ve shared the code examples th
 ## Articles
 
 **1. [A Tale of Two Swaps](https://medium.com/@anishm7030/a-tale-of-two-swaps-understanding-cpu-context-switching-in-operating-systems-1f57d8bb20e9)**\
-**2. [Shallow Trouble vs. Deep Relief](https://medium.com/@anishm7030/shallow-trouble-vs-deep-relief-5bedbb3e6b22)**
+**2. [Shallow Trouble vs. Deep Relief](https://medium.com/@anishm7030/shallow-trouble-vs-deep-relief-5bedbb3e6b22)**\
 **3. [To Infinity (almost) and beyond](https://medium.com/@anishm7030/to-infinity-almost-and-beyond-b48e33c91716)**
 
 ## How to Use This Repo
